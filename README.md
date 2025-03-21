@@ -1,15 +1,15 @@
-My Portfolio
+## My Portfolio
 
-🌐 Live Preview
+## 🌐 Live Preview
 [mdparvezmussaruf.github.io/myPortfolio](https://mdparvezmussaruf.github.io/myPortfolio/)
 
-📂 Repository
+## 📂 Repository
 [GitHub Repository](https://github.com/mdparvezmussaruf/myPortfolio)
 
-📖 About the Project
+## 📖 About the Project
 This is my personal portfolio website, designed to showcase my skills, projects, and experiences. It provides visitors with an overview of my work, contact details, and an interactive way to learn more about me.
 
-✨ Features
+## ✨ Features
 - **Responsive Design**: Fully optimized for desktops, tablets, and mobile devices.
 - **Projects Showcase**: Displays my recent and notable projects.
 - **About Me Section**: A brief introduction and details about my skills and expertise.
@@ -25,7 +25,7 @@ This is my personal portfolio website, designed to showcase my skills, projects,
 - **jQuery**  - Handling events and animations.
 - **GitHub Pages** - Hosting the website.
 
-📦 Installation & Usage
+## 📦 Installation & Usage
 If you want to run the project locally, follow these steps:
 
 1. Clone the repository:
@@ -38,7 +38,7 @@ If you want to run the project locally, follow these steps:
    ```
 3. Open `index.html` in your browser.
 
-🛠️ Future Enhancements
+## 🛠️ Future Enhancements
 - Improve accessibility for better user experience.
 - Add more interactive elements.
 - Implement a blog section to share insights and updates.
